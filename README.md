@@ -101,3 +101,5 @@
 | ✅   | [wardseptember](https://github.com/wardseptember) | [notes(Java 实现)](https://github.com/wardseptember/notes)          |
 | ✅   | [dashidhy](https://github.com/dashidhy) | [algorithm-pattern-python(Python 实现)](https://github.com/dashidhy/algorithm-pattern-python) |
 | ✅   | [binzi56](https://github.com/binzi56) | [algorithm-pattern-c(c++ 实现)](https://github.com/binzi56/algorithm-pattern-c) |
+| ✅   | [lvseouren](https://github.com/lvseouren) | [algorithm-study-record(c++ 实现)](https://github.com/lvseouren/algorithm-study-record) |
+| ✅   | [chienmy](https://github.com/chienmy) | [algorithm-pattern-java(Java 实现)](https://github.com/chienmy/algorithm-pattern-java), [在线文档 Gitbook](https://chienmy.gitbook.io/algorithm-pattern-java/) |
